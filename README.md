@@ -3,7 +3,7 @@
 👋 Hi there! Welcome to my GitHub profile. I'm a passionate **Data Scientist, AI & Machine Learning Enthusiast, and Software Developer** with a strong interest in building intelligent systems and scalable applications. I enjoy solving complex problems, analyzing data, and developing efficient solutions.
 
 ## 📌 About Me
-- 🎓 ** Senior Computer Science Student** at Future University in Egypt.
+- 🎓 **Senior Computer Science Student** at Future University in Egypt.
 - 🎯 Passionate about **Data Science, AI, Machine Learning**.
 - 💻 **Freelancer** providing services in AI, ML, and backend development.
 - 🌱 Constantly learning and exploring new technologies.
